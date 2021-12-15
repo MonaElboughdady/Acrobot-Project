@@ -1,5 +1,5 @@
 # Acrobot-Project
-The acrobot is a two-link robot manipulator ( it has three links of we counted the base) with only one actuator at the second joint. In this project I designed, and built an acrobot from scratch with the help of my supervisor. we didn't use any motion transfer methods (such as gears and timing belts with pulleys) in this hardware. The mechanical design still needs some modifications, but unfortunately I no longer have access to the hardware.
+The acrobot is a two-link robot manipulator ( it has three links if we counted the base) with only one actuator at the second joint. In this project I designed, and built an acrobot from scratch with the help of my supervisor. we didn't use any motion transfer methods (such as gears and timing belts with pulleys) in this hardware. The mechanical design still needs some modifications, but unfortunately I no longer have access to the hardware.
 ![single pendulum](https://user-images.githubusercontent.com/71582409/146194395-43920c1b-1a6a-46b7-b8a7-24f519d4942c.PNG)
 
 ## The mechanical design and hardware
