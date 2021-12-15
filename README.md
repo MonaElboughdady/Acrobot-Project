@@ -15,4 +15,9 @@ this list contains all the mechanical and electronics components that we used (n
 * Microcontroller: Teensy4.1 development board https://www.conrad.com/p/pjrc-microcontroller-teensy-41-2269230 ( I don't recommend using Arduino microcontroller in this project)
 * Encoders: (2X) Incremental capacitive encoder CUI AMT102-V https://eu.odriverobotics.com/shop/cui-amt-102 (I recommend getting absolute encoders as they will reduce the calculations)
 * The base:  You can get any wooden or metal base, but you should make sure that it is stable and doesn't move while the acrobot is working)
+## Modelling and control
+* We used Julia programming language to write the Acrobot parameters, and calculated the LQR controller gains. We also tried to use Julia to control the Acrobot, but it is not a good idea.
+(You can also use matlab or any language for calculations)
+* We used Arduino IDE to write codes to the teensy. The instructions for installation can be found here https://www.pjrc.com/teensy/td_download.html. You can use both linux and windows operating systems for teensyarduino. 
+
 
