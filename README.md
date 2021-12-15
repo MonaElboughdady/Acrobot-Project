@@ -14,4 +14,5 @@ this list contains all the mechanical and electronics components that we used (n
 * Motor driver: ODRIVE V3.6 56volts with connectors https://eu.odriverobotics.com/shop/odrive-v36 ( I may consider getting moteus r4.8 developer kit to build another acrobot but this will require some modifications in the design https://mjbots.com/products/moteus-r4-8-developer-kit )
 * Microcontroller: Teensy4.1 development board https://www.conrad.com/p/pjrc-microcontroller-teensy-41-2269230 ( I don't recommend using Arduino microcontroller in this project)
 * Encoders: (2X) Incremental capacitive encoder CUI AMT102-V https://eu.odriverobotics.com/shop/cui-amt-102 (I recommend getting absolute encoders as they will reduce the calculations)
+* The base:  You can get any wooden or metal base, but you should make sure that it is stable and doesn't move while the acrobot is working)
 
